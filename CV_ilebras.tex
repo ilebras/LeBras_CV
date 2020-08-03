@@ -1,0 +1,293 @@
+\documentclass[paper=letter,fontsize=11pt]{scrartcl} % KOMA-article class
+							
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{amsmath,amsfonts,amsthm}     % Math packages
+\usepackage{graphicx}                    % Enable pdflatex
+\usepackage[svgnames]{xcolor}            % Colors by their 'svgnames'
+\usepackage{geometry}
+	%\textheight=700px                    % Saving trees ;-)
+%\usepackage{url}
+\usepackage[colorlinks=true,linkcolor=black,urlcolor=black]{hyperref}
+\usepackage{float}
+\usepackage{etaremune}
+\usepackage{wrapfig}
+
+\usepackage{attachfile}
+
+\frenchspacing              % Better looking spacings after periods
+\pagestyle{empty}           % No pagenumbers/headers/footers
+
+%\addtolength{\voffset}{-40pt}
+%\addtolength{\textheight}{20pt}
+
+\setlength\topmargin{0pt}
+\addtolength\topmargin{-\headheight}
+\addtolength\topmargin{-\headsep}
+\setlength\oddsidemargin{0pt}
+\setlength\textwidth{\paperwidth}
+\addtolength\textwidth{-2in}
+\setlength\textheight{\paperheight}
+%\addtolength\textheight{-3in}
+\addtolength\textheight{-2in}
+\usepackage{layout}
+
+%%% Custom sectioning}{sectsty package)
+%%% ------------------------------------------------------------
+\usepackage{sectsty}
+
+\sectionfont{%		
+	\normalfont	            % Change font of \section command
+	% \usefont{OT1}{phv}{}{n}%		% bch-b-n: CharterBT-Bold font
+	\sectionrule{0pt}{0pt}{-5pt}{1pt}}
+
+%%% Macros
+%%% ------------------------------------------------------------
+\newlength{\spacebox}
+\settowidth{\spacebox}{8888888888}			% Box to align text
+\newcommand{\sepspace}{\vspace*{3mm}}		% Vertical space macro
+
+\newcommand{\MyName}[1]{ % Name
+		\huge  \textbf \hfill #1 %\usefont{OT1}{phv}{}{n}
+		\par \normalsize \normalfont}
+		
+\newcommand{\MySlogan}[1]{ % Slogan}{optional)
+		\large \hfill #1 %\usefont{OT1}{phv}{m}{n}
+		\par \normalsize \normalfont}
+
+\newcommand{\NewPart}[2]{\section*{\uppercase{#1} #2}}
+
+\newcommand{\ShortEntry}[2]{\normalsize \noindent \textbf{#1}: #2 \\ }
+
+\newcommand{\EducationEntry}[4]{
+		\noindent \textbf{#1} \hfill      % Study
+		\colorbox{White}{%
+			\parbox{8em}{%
+			\hfill\color{Black}#2}} \par  % Duration
+		\noindent \textit{#3} \par        % School
+		\noindent\hangindent=3em\hangafter=0 #4 % Description
+		 \par}
+
+
+\newcommand{\PaperEntry}[6]{
+		\noindent #1, ``#2", \textit{#3} \textbf{#4}, #5 (#6).}
+
+\newcommand{\SubPaperEntry}[3]{
+		\noindent #1, ``#2", \textit{#3}}
+
+\newcommand{\TalkEntry}[3]{
+		\noindent #1 \hfill      % Study
+		\colorbox{White}{%
+			\parbox{6em}{%
+			\hfill\color{Black}#2}} \par  % Duration       % School
+		\noindent\hangindent=3em\hangafter=0 \textit ``#3''\sepspace} % Description
+		% \normalsize \par }
+
+% \newcommand{\ConfEntry}[5]{\noindent \textbf{#3}: #1, #4, ``#5.'' (#2) \par \sepspace}
+
+\newcommand{\ConfEntry}[5]{
+		\noindent #1 (#2) \hfill      % Study
+		\colorbox{White}{%
+			\parbox{6em}{%
+			\hfill\color{Black}#3}} \par % Duration       % School
+		\noindent \hangindent=3em\hangafter=0 #4 ``#5'' \sepspace}
+		% \noindent\hangindent=3em\hangafter=0 \textit  } 
+
+\newcommand{\FundingEntry}[5]{
+        \noindent #1, ``#2", \$#3 (#4, #5).}
+
+
+
+%%% Begin Document
+%%% ------------------------------------------------------------
+\begin{document}
+
+%\layout
+
+% you can upload a photo and include it here...
+% \begin{wrapfigure}{l}{0.5\textwidth}
+% 	\vspace*{-2em}
+% 		\includegraphics[width=0.2\textwidth]{Appelbaum.JPG}
+% \end{wrapfigure}
+
+\MyName{Isabela Le Bras}
+\MySlogan{\vspace{-0.3in}\begin{flushright}Assistant Scientist\\
+Woods Hole Oceanographic Institution\\
+email: ilebras@whoi.edu\\
+phone: (858) 952-3233\\
+\end{flushright}}
+
+
+%%% Education
+%%% ------------------------------------------------------------
+\NewPart{Education}{}
+
+\EducationEntry{Ph.D. in Physical Oceanography}{2011--2017}{Massachusetts Institute of Technology -- Woods Hole Oceanographic Institution Joint Program}{``Dynamics of North Atlantic Western Boundary Currents"\\
+Thesis advisor: John M. Toole}
+\sepspace
+
+\EducationEntry{B.A. in Physics, Minor in Mathematics}{2006--2010}{University of California, Berkeley}{Highest honors in physics and general scholarship}
+
+%%% Work experience
+%%% ------------------------------------------------------------
+\NewPart{Research Positions}{}
+
+\EducationEntry{{Postdoctoral Scholar}}{2017--2020}{Scripps Institution of Oceanography}{Postdoctoral advisor: Fiammetta Straneo}
+
+\sepspace
+
+\EducationEntry{Postdoctoral Investigator}{Jan-Aug 2017}{Woods Hole Oceanographic Institution}
+{Postdoctoral advisor: John M. Toole}
+
+\sepspace
+
+\EducationEntry{Graduate Research Assistant}{2011--2017}{Woods Hole Oceanographic Institution}
+{Graduate supervisor: John M. Toole}
+
+% \newpage
+
+%%% Papers
+%%% ------------------------------------------------------------
+
+\NewPart{Publications}{}
+
+
+
+\begin{etaremune}
+
+\item \PaperEntry{\textbf{I. A. Le Bras}, F. Straneo, J. Holte, M.F. de Jong, and N. P. Holliday }{Rapid export of waters formed by convection near the Irminger Sea's western boundary}{Geophysical Research Letters}{doi.org/10.1029/2019GL085989}{}{2020}
+
+\item \PaperEntry{\textbf{I. A. Le Bras}, M. Sonnewald, and J.M. Toole}{A barotropic vorticity budget for the subtropical North Atlantic based on observations}{Journal of Physical Oceanography}{doi:10.1175/JPO-D-19-0111.1}{}{2019}
+
+\item \PaperEntry{E. Frajka-Williams,...\textbf{I. A. Le Bras}, ... and 35 others}{Atlantic Meridional Overturning Circulation: Observed transports and variability}{Frontiers in Marine Science}{6}{}{2019}
+
+\item \PaperEntry{J. Hopkins, N. P. Holliday, D. Rayner, L. Houpert, \textbf{I. A. Le Bras}, F. Straneo, C. Wilson, and S. Bacon}{Transport variability of the Irminger Sea Deep Western Boundary Current from a mooring array}{Journal of Geophysical Research: Oceans}{124}{}{2019}
+
+
+\item \PaperEntry{M. S. Lozier, F.  Li, ... \textbf{I. A. Le Bras}, ... and 35 others}{A sea change in our view of overturning– first results from the
+Overturning in the Subpolar North Atlantic Program}{Science}{363}{516--521}{2019}
+
+
+\item \PaperEntry{\textbf{I. A. Le Bras}, F. Straneo, J. Holte, and N. P. Holliday }{Seasonality of Freshwater in the East Greenland Current
+System from 2014 to 2016}{Journal of Geophysical Research: Oceans}{123}{}{2018}
+
+\item \PaperEntry{\textbf{I. A. Le Bras}, S. Jayne, and J. M. Toole}{The interaction of recirculation gyres and a deep boundary current}{Journal of Physical Oceanography}{48}{573-590}{2018}
+	
+\item \PaperEntry{J. M. Toole, M. Andres, \textbf{I. A. Le Bras}, T. Joyce and M. McCartney}{Moored observations of the Deep Western Boundary Current in the NW Atlantic: 2004-2014}{ Journal of Geophysical Research: Oceans}{122}{7488-7505}{2017}
+
+\item \PaperEntry{\textbf{I. A. Le Bras}, I. Yashayaev, and J. M. Toole}{Tracking Labrador Sea Water property signals along the Deep Western Boundary Current}{ Journal of Geophysical Research: Oceans}{122}{5348-5366}{2017}
+
+\item \PaperEntry{\textbf{I. A. Le Bras} and T. Karin (co-first authors), A. Kehlberger, K. Singer, N. Daniilidis, and H. Haeffner}{Transport of charged particles by adjusting RF voltage amplitudes}{Applied Physics B}{106}{117-125}{2012}
+
+\end{etaremune}
+
+% \NewPart{Submitted Publications}{}
+% \begin{itemize}
+% \end{itemize}
+
+\NewPart{Invited presentations}{}
+
+\TalkEntry{Lamont Doherty Earth Observatory, Ocean and Climate Physics Seminar}{Nov 2018}{Seasonality of Freshwater in the East Greenland Current System}
+
+\TalkEntry{Ocean Sciences Meeting, Portland, Oregon}{Feb 2018}{Observing and Modeling the Deep Western Boundary Current}
+
+\NewPart{Seminars}{}
+\TalkEntry{Caltech}{January 2020}{Freshwater, Convection, and Overturning in the Irminger Sea}
+
+\TalkEntry{U Mass Dartmouth}{Oct 2019}{The East Greenland Current System: Seasonality of Freshwater and Boundary Current - Convection Interactions}
+
+\TalkEntry{Applied Physics Laboratory - University of Washington seminar}{June 2019}{Seasonality of Freshwater in the East Greenland Current System}
+
+\TalkEntry{Woods Hole Oceanographic Institution}{Mar 2019}{Seasonality of Freshwater in the East Greenland Current System}
+
+\TalkEntry{Scripps Institution of Oceanography, CASPO Seminar}{Jan 2019}{Seasonality of Freshwater in the East Greenland Current System}
+
+\TalkEntry{Oregon State University, College of Earth, Ocean and Atmospheric Sciences}{Oct 2018}{Seasonality of Freshwater in the East Greenland Current System}
+
+\TalkEntry{Scripps Institution of Oceanography, CASPO Seminar}{Oct 2017}{Advection and Stirring of the Deep Western Boundary Current}
+
+\TalkEntry{Bjerknes Center, GFI seminar, Bergen, Norway}{May 2017}{Observing and modeling sitrring of the Deep Western Boundary Curent}
+
+\TalkEntry{Oregon State University, College of Earth, Ocean and Atmospheric Sciences}{Mar 2017}{Stirring in the Deep Western Boundary Current}
+
+\TalkEntry{Series of seminars in Germany \\ 1. GEOMAR, Kiel; 2. Marum, Universit\"at Bremen; 3. Universit\"at Hamburg}{Jan 2016}{Observing and Modeling Stirring of the Deep Western Boundary Current}
+
+\TalkEntry{University of California, Los Angeles}{Dec 2015}{Observing and Modeling Stirring of the Deep Western Boundary Current}
+
+\NewPart{Conference presentations}{}
+
+\ConfEntry{Ocean Sciences Meeting, San Diego, CA}{oral presentation}{Feb 2020}{\textbf{I. A. Le Bras}, F. Straneo, J. Holte, M. F. de Jong and N. P. Holliday\\}{Rapid export of waters formed by convection near the Irminger Sea's western boundary}
+
+
+\ConfEntry{Ocean Obs'19, Honolulu, HI}{poster presentation}{Sep 2019}{\textbf{I. A. Le Bras}, F. Straneo, J. Holte, M. F. de Jong and N. P. Holliday\\}{Observing the link between convection and deep water export}
+
+\ConfEntry{EGU Meeting, Vienna, Austria}{poster presentation}{Apr 2019}{\textbf{I. A. Le Bras}, F. Straneo, J. Holte, and N. P. Holliday\\}{Convection and deep water export in the Irminger Sea}
+
+\ConfEntry{AGU Fall Meeting, Washington D.C.}{poster presentation}{Dec 2018}{\textbf{I. A. Le Bras}, N. Beaird, and F. Straneo\\}{Freshwater budgets for the ocean east of Greenland}
+
+\ConfEntry{Ocean Sciences Meeting, Portland, OR}{oral presentation}{Feb 2018}{\textbf{I. A. Le Bras}, F. Straneo, J. Holte and N. P. Holliday\\}{Seasonality of Freshwater in East Greenland Current System}
+
+\ConfEntry{Irminger Sea Workshop, Southampton, UK}{oral presentation}{Nov 2017}{\textbf{I. A. Le Bras}, F. Straneo, J. Holte and N. P. Holliday\\}{Seasonality of Freshwater in East Greenland Current System}
+
+\ConfEntry{USAMOC meeting, Santa Fe, NM}{oral presentation}{May 2017}{\textbf{I. A. Le Bras}, I. Yashayaev, and J.M. Toole\\}{Labrador Sea Water property changes along the Deep Western Boundary Current}
+
+% \ConfEntry{USAMOC meeting, Santa Fe, NM}{poster presentation}{May 2017}{J. M. Toole, M. Andres, \textbf{I. A. Le Bras}, T. Joyce, M. McCartney and W. Smethie Jr.}{Moored observations of the Deep Western Boundary Current in the NW Atlantic: 2004-2014}
+\ConfEntry{EGU meeting, Vienna, Austria}{poster presentation}{Apr 2017}{\textbf{I. A. Le Bras} and J.M. Toole}{A vorticity budget for the Gulf Stream}
+
+\ConfEntry{Ocean Sciences Meeting, New Orleans, LA}{poster presentation}{Feb 2016}{\textbf{I. A. Le Bras} and J.M. Toole}{Line W Measurements of the Deep Western Boundary Current reflect changes in Labrador Sea Convection}
+
+\ConfEntry{Ocean Sciences Meeting, New Orleans, LA}{poster presentation}{Feb 2016}{\textbf{I. A. Le Bras}}{Clubes de Ciencia: Intensive science workshops in Mexico provide a unique opportunity for teaching, scientific and cultural exchange}
+
+\ConfEntry{RAPID-USAMOC International Science Meeting, Bristol, UK}{oral presentation}{Jul 2015}{\textbf{I. A. Le Bras} and J. M. Toole\\}{A decade of Line W observations of the Deep Western Boundary Current}
+
+\ConfEntry{Graduate Climate Conference, Pack Forest, WA}{poster presentation}{Oct 2014}{\textbf{I. A. Le Bras} and J. M. Toole\\}{Deep western boundary current exchange with the interior}
+
+\ConfEntry{Ocean Sciences Meeting, Honolulu, HI}{poster presentation}{Feb 2014}{\textbf{I. A. Le Bras} and J. M. Toole\\}{Testing classic theories of western boundary currents in the North Atlantic}
+
+\NewPart{Synergistic Activities}{}
+\ShortEntry{Panel member}{CLIVAR POS panel}
+\ShortEntry{Reviewer}{Journal of Physical Oceanography; Journal of Geophysical Research: Oceans; Journal of Climate; Nature Scientific Reports; Ocean Modelling; Ocean Science Discussions; Earth System Science Data Discussions (ESSDD)}
+\ShortEntry{Session chair}{EGU meeting 2019, Ocean Circulation and Climate Open Session; Graduate Climate Conference 2013, Physical Oceanography session}
+\ShortEntry{Steering committee member}{Mentoring Physical Oceanography Women to Increase Retention (2016-2020)}
+\ShortEntry{Article for the general public}{ ``Detours on the oceanic highway'' Oceanus Magazine}
+
+\NewPart{Outreach}{}
+\ShortEntry{2020}{Two presentations to summer undergraduate students from underrepresented backgrounds "Chimneys into the deep ocean: measuring the ocean circulation around Greenland"}
+\ShortEntry{2018, 2020}{Organized LGBTQ+ event at Ocean Sciences Meeting}
+\ShortEntry{2019}{Talked about science careers and did experiments with groups of underrepresented sixth graders from San Diego on the Scripps Pier in collaboration with Birch Aquarium.}
+\ShortEntry{2018}{Did experiments with students at Ocean Beach Elementary School for their "Science Night".}
+\ShortEntry{2015-2016}{Served as a judge for Falmouth High School Science Fair.}
+\ShortEntry{2014}{Submerge! New York City marine science festival. Manned booth of hands-on activities for WHOI. Estimated more than 4000 people in attendance.}
+
+% \cventry{June 2014 \\-- Sept 2015}{Organizer}{}{Student Lunch Seminar in Physical Oceanography, weekly seminar in which students present their research to each other}{MIT-WHOI Joint Program}{}
+\NewPart{Research Cruises}{}
+\ShortEntry{Fall 2018}{Overturning in the Subpolar North Atlantic Program (OSNAP) cruise AR30-06.\\ Cape Farewell mooring specialist and responsible party for CTD $\chi$-pod measurements.\\ Chief Scientist: Robert Pickart; Reykjavik, Iceland.}
+
+\ShortEntry{July 2017}{Sermilik fjord research expedition. CTD specialist.\\ Chief Scientist: Fiamma Straneo; Tassilaq, Greenland,}
+
+\ShortEntry{May 2014}{Line W research cruise KN218. CTD watch leader.\\ Chief Scientist: John M. Toole; Woods Hole, MA.}
+
+\ShortEntry{Aug 2012}{Line W research cruise KN208. CTD watch stander.\\ Chief Scientist: John M. Toole; Woods Hole, MA.}
+
+\ShortEntry{May 2012}{WOCE/CLIVAR A22 hydrography cruise AT20-1A. CTD watch stander.\\ Chief Scientist: Ruth Curry; Woods Hole, MA - Bridgetown, Barbados.}
+
+
+\NewPart{Teaching}{}
+
+\ShortEntry{April 2018}{Guest lecture on water mass analysis and the overturning circulation for ice-ocean interactions course, Scripps Institution of Oceanography, CA.}
+
+\ShortEntry{September 2016}{Teaching assisant for introductory course on github and python through the Software Carpentry program, Woods Hole, MA.}
+
+\ShortEntry{January 2016}{Designed and taught 3 lectures of an undergraduate short-course entitled ``Anthropocene'', Woods Hole, MA.}
+
+\ShortEntry{January 2015}{Created curriculum and taught a week-long, all-day workshop on ocean physics to college and high school students using lab experiments and numerical simulations (in English and Spanish) at UABC in Ensenada, Mexico through Clubes de Cienca program.}
+
+\ShortEntry{Spring 2014}{Took course through MIT's Teaching and Learning Laboratory on teaching methods culminating in MIT Teaching Certificate, Cambridge, MA.}
+
+\ShortEntry{Fall 2013}{Teaching assistant for introduction to observational physical oceanography, MIT course 12.808 with Dr. Magdalena Andres and Dr. Jake Gebbie. MIT-WHOI Joint Program.}
+
+\ShortEntry{Summer 2013 and 2015}{Short Course Instructor for graduate student math refresher.\\ MIT-WHOI Joint Program.}
+
+
+\end{document}
