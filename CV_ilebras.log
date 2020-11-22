@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.23)  9 OCT 2020 09:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.23)  22 NOV 2020 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -810,22 +810,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 298--299
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 301.
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 303.
 [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 301.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 303.
  (/home/isabela/Documents/CV/CV_ilebras.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 301.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 301.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 303.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 303.
 Package rerunfilecheck Info: File `CV_ilebras.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 301.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 303.
  ) 
 Here is how much of TeX's memory you used:
- 12160 strings out of 492982
- 192889 string characters out of 6134896
- 442578 words of memory out of 5000000
+ 12158 strings out of 492982
+ 192875 string characters out of 6134896
+ 441579 words of memory out of 5000000
  15485 multiletter control sequences out of 15000+600000
- 12199 words of font info for 63 fonts, out of 8000000 for 9000
+ 12148 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,54p,8821b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
@@ -834,7 +839,7 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /home/isabela/Documents/CV/CV_ilebras.pdf (6 pages, 106262 by
+Output written on /home/isabela/Documents/CV/CV_ilebras.pdf (6 pages, 106439 by
 tes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
