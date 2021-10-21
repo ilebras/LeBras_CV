@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.23)  13 JUL 2021 11:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.23)  21 OCT 2021 13:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -692,6 +692,16 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              This could result in several error messages on input li
 ne 232.
 
+
+Overfull \hbox (7.5372pt too wide) in paragraph at lines 235--235
+\OT1/cmr/m/n/10.95 (-20) L.Timmermans,
+ []
+
+
+Overfull \hbox (6.86922pt too wide) in paragraph at lines 235--235
+\OT1/cmr/m/n/10.95 (-20) A.Proshutinsky,
+ []
+
 [3] [4]
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
@@ -699,23 +709,10 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 268.
+ne 272.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--275
-
- []
-
-
-Class scrartcl Warning: incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 277.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 278--285
+Underfull \hbox (badness 10000) in paragraph at lines 273--279
 
  []
 
@@ -725,19 +722,23 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 287.
+ne 281.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 289--290
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 291--292
+Underfull \hbox (badness 10000) in paragraph at lines 282--289
 
  []
 
 [5]
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 291.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 293--294
 
  []
@@ -758,22 +759,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 299--300
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+
+ []
+
+
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 302.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 304--305
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
-
- []
+ne 306.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 308--309
@@ -800,27 +801,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--317
 
  []
 
-
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 318--319
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 321.
-[6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 321.
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
+[7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
  (/home/isabela/Documents/CV/CV_ilebras.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 321.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 321.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 325.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
 Package rerunfilecheck Info: File `CV_ilebras.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 321.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 325.
  ) 
 Here is how much of TeX's memory you used:
- 12161 strings out of 492982
- 192894 string characters out of 6134896
+ 12164 strings out of 492982
+ 192914 string characters out of 6134896
  441579 words of memory out of 5000000
  15485 multiletter control sequences out of 15000+600000
- 12250 words of font info for 64 fonts, out of 8000000 for 9000
+ 12301 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,54p,8821b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
@@ -829,11 +840,11 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /home/isabela/Documents/CV/CV_ilebras.pdf (6 pages, 109310 by
+Output written on /home/isabela/Documents/CV/CV_ilebras.pdf (7 pages, 109965 by
 tes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
+ 75 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
  10241 words of extra memory for PDF output out of 12000 (max. 10000000)
 
