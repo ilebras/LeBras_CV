@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  9 AUG 2022 19:29
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.23)  21 OCT 2021 13:59
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -902,17 +906,38 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              This could result in several error messages on input li
 ne 240.
 
+<<<<<<< HEAD
 [4]
+=======
+
+Overfull \hbox (7.5372pt too wide) in paragraph at lines 235--235
+\OT1/cmr/m/n/10.95 (-20) L.Timmermans,
+ []
+
+
+Overfull \hbox (6.86922pt too wide) in paragraph at lines 235--235
+\OT1/cmr/m/n/10.95 (-20) A.Proshutinsky,
+ []
+
+[3] [4]
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
+<<<<<<< HEAD
 ne 280.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 281--287
+=======
+ne 272.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--279
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
@@ -922,10 +947,17 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
+<<<<<<< HEAD
 ne 289.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 290--297
+=======
+ne 281.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--289
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
@@ -936,35 +968,62 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
+<<<<<<< HEAD
 ne 299.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 301--302
+=======
+ne 291.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 303--304
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 305--306
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 307--308
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 309--310
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 311--312
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
@@ -974,44 +1033,76 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
+<<<<<<< HEAD
 ne 314.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 316--317
+=======
+ne 306.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 318--319
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 320--321
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 322--323
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 324--325
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 [6]
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 326--327
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 328--329
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 330--331
 
  []
@@ -1035,9 +1126,45 @@ usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on CV_ilebras.pdf (7 pages, 110736 bytes).
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
+[7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
+ (/home/isabela/Documents/CV/CV_ilebras.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 325.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
+Package rerunfilecheck Info: File `CV_ilebras.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 325.
+ ) 
+Here is how much of TeX's memory you used:
+ 12164 strings out of 492982
+ 192914 string characters out of 6134896
+ 441579 words of memory out of 5000000
+ 15485 multiletter control sequences out of 15000+600000
+ 12301 words of font info for 65 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,54p,8821b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on /home/isabela/Documents/CV/CV_ilebras.pdf (7 pages, 109965 by
+tes).
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
  17 named destinations out of 1000 (max. 500000)
+<<<<<<< HEAD
  22529 words of extra memory for PDF output out of 24883 (max. 10000000)
+=======
+ 10241 words of extra memory for PDF output out of 12000 (max. 10000000)
+>>>>>>> cf23b185b7d0b0bcfc517fb007c6c8c54a2332e6
 
