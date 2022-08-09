@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  12 JAN 2022 22:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  9 AUG 2022 19:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -860,7 +860,14 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 ne 157.
 
 
-Overfull \hbox (82.73456pt too wide) in paragraph at lines 164--165
+Overfull \hbox (34.78828pt too wide) in paragraph at lines 163--164
+\OT1/cmr/m/n/10.95 (-20) ens Con-vec-tion in the Irminger Sea", \OT1/cmr/m/it/1
+0.95 (-20) Geo-phys-i-cal Re-search Let-ters \OT1/cmr/bx/n/10.95 (-20) doi.org/
+10.1029/2022GL098857\OT1/cmr/m/n/10.95 (-20) ,
+ []
+
+
+Overfull \hbox (82.73456pt too wide) in paragraph at lines 167--168
 \OT1/cmr/m/n/10.95 (-20) sure-ments in the At-lantic and Arc-tic Oceans", \OT1/
 cmr/m/it/10.95 (-20) Oceanog-ra-phy \OT1/cmr/bx/n/10.95 (-20) doi.org/10.5670/o
 ceanog.2021.supplement.02-
@@ -869,7 +876,7 @@ ceanog.2021.supplement.02-
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (5.64238pt too wide) in paragraph at lines 179--180
+Overfull \hbox (5.64238pt too wide) in paragraph at lines 182--183
 \OT1/cmr/m/n/10.95 (-20) cal North At-lantic based on ob-ser-va-tions", \OT1/cm
 r/m/it/10.95 (-20) Jour-nal of Phys-i-cal Oceanog-ra-phy \OT1/cmr/bx/n/10.95 (-
 20) doi:10.1175/JPO-
@@ -877,35 +884,35 @@ r/m/it/10.95 (-20) Jour-nal of Phys-i-cal Oceanog-ra-phy \OT1/cmr/bx/n/10.95 (-
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
+) [2]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 207.
+ne 210.
 
-[2]
-
-Class scrartcl Warning: Incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 237.
-
-[3] [4]
+[3]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 277.
+ne 240.
+
+[4]
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 280.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--284
+Underfull \hbox (badness 10000) in paragraph at lines 281--287
 
  []
 
@@ -915,48 +922,49 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 286.
+ne 289.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--294
-
- []
-
-
-Class scrartcl Warning: Incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 296.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 298--299
+Underfull \hbox (badness 10000) in paragraph at lines 290--297
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 299.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--305
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--309
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
 
  []
 
@@ -966,67 +974,67 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 311.
+ne 314.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--314
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--318
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 319--320
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
 
  []
 
-[6] [7] (./CV_ilebras.aux)
+[7] (./CV_ilebras.aux)
 Package rerunfilecheck Info: File `CV_ilebras.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16740 strings out of 478994
- 276991 string characters out of 5858184
- 799247 words of memory out of 5000000
- 33817 multiletter control sequences out of 15000+600000
- 414145 words of font info for 114 fonts, out of 8000000 for 9000
+ 16743 strings out of 478994
+ 277015 string characters out of 5858184
+ 799248 words of memory out of 5000000
+ 33818 multiletter control sequences out of 15000+600000
+ 414196 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,6n,116p,10612b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 111i,6n,116p,10612b,495s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV_ilebras.pdf (7 pages, 110067 bytes).
+Output written on CV_ilebras.pdf (7 pages, 110736 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
