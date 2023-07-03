@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  24 JUN 2023 13:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  2 JUL 2023 20:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -938,17 +938,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 337.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 339--340
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
-
- []
+ne 341.
 
 [6]
 Underfull \hbox (badness 10000) in paragraph at lines 343--344
@@ -966,22 +956,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 347--348
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+
+ []
+
+
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 350.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
-
- []
+ne 354.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 356--357
@@ -1009,29 +999,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 364--365
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
+
+ []
+
+
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 368.
+ne 372.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
-
- []
-
-[7]
 Underfull \hbox (badness 10000) in paragraph at lines 374--375
 
  []
 
-
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 376--377
 
  []
@@ -1057,12 +1047,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 384--385
  []
 
 
-Class scrartcl Warning: Incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 386.
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
+
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 388--389
@@ -1070,9 +1057,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 388--389
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
-
- []
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 390.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 392--393
@@ -1104,13 +1094,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 402--403
 
  []
 
-[8] (./CV_ilebras_annotated.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+
+ []
+
+[8] [9] (./CV_ilebras_annotated.aux)
 Package rerunfilecheck Info: File `CV_ilebras_annotated.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 16747 strings out of 478994
- 277164 string characters out of 5858184
+ 16748 strings out of 478994
+ 277170 string characters out of 5858184
  799344 words of memory out of 5000000
  33814 multiletter control sequences out of 15000+600000
  414041 words of font info for 116 fonts, out of 8000000 for 9000
@@ -1122,10 +1122,10 @@ Here is how much of TeX's memory you used:
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV_ilebras_annotated.pdf (8 pages, 112692 bytes).
+Output written on CV_ilebras_annotated.pdf (9 pages, 113113 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 21 named destinations out of 1000 (max. 500000)
  18433 words of extra memory for PDF output out of 20736 (max. 10000000)
 
