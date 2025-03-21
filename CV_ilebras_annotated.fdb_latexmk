@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1742572757 "CV_ilebras_annotated.tex" "CV_ilebras_annotated.pdf" "CV_ilebras_annotated" 1742572767
+["pdflatex"] 1742573217 "CV_ilebras_annotated.tex" "CV_ilebras_annotated.pdf" "CV_ilebras_annotated" 1742573218
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -138,11 +138,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1635947565 2724743 ec190f1ea28f1d1ebd3cf4da53989006 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "CV_ilebras_annotated.aux" 1742572758 856 dc84717f0fd15ae4b063e4cbb07ae2f5 "pdflatex"
-  "CV_ilebras_annotated.out" 1742572758 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV_ilebras_annotated.tex" 1742572767 32088 a9e7bb08a36ddb2d23b3a4cbdc345c55 ""
+  "CV_ilebras_annotated.aux" 1742573218 856 dc84717f0fd15ae4b063e4cbb07ae2f5 "pdflatex"
+  "CV_ilebras_annotated.out" 1742573218 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV_ilebras_annotated.tex" 1742573216 32209 fe8eb32819e6431a71a76eda1496aad6 ""
   (generated)
   "CV_ilebras_annotated.pdf"
+  "CV_ilebras_annotated.log"
   "CV_ilebras_annotated.out"
   "CV_ilebras_annotated.aux"
-  "CV_ilebras_annotated.log"

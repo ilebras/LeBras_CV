@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  21 MAR 2025 11:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  21 MAR 2025 12:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -914,22 +914,22 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 ne 261.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--284
+Underfull \hbox (badness 10000) in paragraph at lines 267--285
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--284
+Underfull \hbox (badness 10000) in paragraph at lines 267--285
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--284
+Underfull \hbox (badness 10000) in paragraph at lines 267--285
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--284
+Underfull \hbox (badness 10000) in paragraph at lines 267--285
 
  []
 
@@ -939,10 +939,10 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 285.
+ne 286.
 
 
-Overfull \hbox (0.96112pt too wide) in paragraph at lines 287--287
+Overfull \hbox (0.96112pt too wide) in paragraph at lines 288--288
 \OT1/cmr/m/n/10.95 (-20) US CLI-VAR/OCB Path-ways Con-nect-ing Cli-mate Changes
  to the Deep Ocean we-bi-nar  [][][][][][] 
  []
@@ -954,7 +954,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 316.
+ne 317.
 
 [6] [7]
 
@@ -963,45 +963,37 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 383.
+ne 384.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--386
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 387--388
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--392
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--394
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
 
  []
 
 
-Class scrartcl Warning: Incompatible usage of \@ssect detected.
-(scrartcl)              You've used the KOMA-Script implementation of \@ssect
-(scrartcl)              from within a non compatible caller, that does not
-(scrartcl)              \scr@s@ct@@nn@m@ locally.
-(scrartcl)              This could result in several error messages on input li
-ne 401.
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
 
 [8]
 
@@ -1010,57 +1002,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 422.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 424--425
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 430--431
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 438--439
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--441
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 442--443
-
- []
+ne 402.
 
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
@@ -1068,40 +1010,55 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 446.
+ne 423.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--449
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 450--451
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 452--453
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 454--455
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 456--457
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 458--459
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 460--461
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
 
  []
 
@@ -1111,50 +1068,93 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 466.
+ne 447.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 470--471
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--473
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--475
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--477
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 478--479
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
+
+ []
+
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 467.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 480--481
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 482--483
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--485
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 
  []
 
@@ -1165,7 +1165,7 @@ Package rerunfilecheck Info: File `CV_ilebras_annotated.out' has not changed.
 Here is how much of TeX's memory you used:
  16792 strings out of 478994
  277662 string characters out of 5858184
- 801346 words of memory out of 5000000
+ 801345 words of memory out of 5000000
  33824 multiletter control sequences out of 15000+600000
  415739 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1179,7 +1179,7 @@ r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/lo
 cal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on CV_ilebras_annotated.pdf (11 pages, 149944 bytes).
+Output written on CV_ilebras_annotated.pdf (11 pages, 150079 bytes).
 PDF statistics:
  139 PDF objects out of 1000 (max. 8388607)
  116 compressed objects within 2 object streams
