@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  21 MAR 2025 12:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.3)  21 MAR 2025 12:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -929,11 +929,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 267--285
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--285
-
- []
-
-
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
 (scrartcl)              from within a non compatible caller, that does not
@@ -995,7 +990,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 396--397
 
  []
 
-[8]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
@@ -1004,6 +998,7 @@ Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              This could result in several error messages on input li
 ne 402.
 
+[8]
 
 Class scrartcl Warning: Incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
@@ -1057,7 +1052,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 441--442
 
  []
 
-[9]
+
 Underfull \hbox (badness 10000) in paragraph at lines 443--444
 
  []
@@ -1075,7 +1070,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
-
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 451--452
 
  []
@@ -1138,12 +1133,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 477--478
 
  []
 
-[10]
+
 Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
  []
 
-
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 481--482
 
  []
@@ -1179,7 +1174,7 @@ r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/lo
 cal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on CV_ilebras_annotated.pdf (11 pages, 150079 bytes).
+Output written on CV_ilebras_annotated.pdf (11 pages, 149940 bytes).
 PDF statistics:
  139 PDF objects out of 1000 (max. 8388607)
  116 compressed objects within 2 object streams
